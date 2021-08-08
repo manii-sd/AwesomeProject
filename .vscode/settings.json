@@ -1,0 +1,9 @@
+{
+  "eslint.validate": [
+  
+  ],
+  "eslint.nodeEnv": "",
+  "eslint.packageManager": "yarn",
+  "eslint.quiet": true,
+  "eslint.trace.server": null
+}
